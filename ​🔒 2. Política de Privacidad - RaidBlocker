@@ -1,0 +1,18 @@
+I. Recopilación de Datos (Data Collection)
+​RaidBlocker opera bajo el principio de minimización de datos. Recopilamos:
+​Datos de Identificación: ID de usuario, ID de servidor, ID de canal e ID de mensajes (solo en casos de reporte).
+​Metadatos de Seguridad: Registros de quién invitó a qué bot (para el sistema Anti-Bot) y timestamps de entrada/salida.
+​Archivos de Multimedia: Solo los enlaces de imágenes proporcionados en los reportes voluntarios.
+​II. Uso y Finalidad de los Datos
+​Sus datos se utilizan estrictamente para:
+​Protección Proactiva: Identificar y bloquear usuarios en la lista negra antes de que actúen.
+​Soporte Técnico: Ayudar a los administradores a entender por qué un usuario fue bloqueado.
+​Monetización: Validar el estado Premium mediante la conexión con Patreon.
+​III. Almacenamiento y Seguridad
+​PostgreSQL: Todos los datos se almacenan en una base de datos cifrada y privada.
+​Acceso Restringido: Solo la Owner y el sistema automatizado tienen acceso a la lectura de datos sensibles.
+​Retención: Los datos de servidores que eliminen al bot serán borrados de nuestras tablas de configuración en un plazo de 30 días, a menos que existan registros de seguridad (GBans) activos.
+​IV. Derechos del Usuario (GDPR/Derechos ARCO)
+​Cualquier usuario puede solicitar información sobre si su ID está en nuestra base de datos o solicitar la eliminación de sus datos (siempre que no tenga un baneo global activo por razones de seguridad) a través de nuestros canales oficiales.
+​V. Actualización de la Política
+​Esta política puede actualizarse para cumplir con nuevas leyes o cambios en la API de Discord. Es responsabilidad del usuario revisar periódicamente este documento.
