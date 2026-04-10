@@ -1,0 +1,13 @@
+I. Aceptación y Modificaciones
+​Al añadir a RaidBlocker a una comunidad de Discord, el propietario del servidor y sus miembros aceptan estos términos. Nos reservamos el derecho de actualizar estos términos en cualquier momento. Las actualizaciones se notificarán en nuestro servidor de soporte o mediante un anuncio global en el bot. El uso continuado del bot tras un cambio implica la aceptación de los nuevos términos.
+​II. Uso del Sistema de Seguridad Global
+​Blacklist (GBan): El usuario entiende que formar parte de la Blacklist Global de RaidBlocker impide su acceso a cualquier servidor protegido por el bot.
+​Criterios de Expulsión: Los motivos incluyen, pero no se limitan a: Raids (ataques masivos), spam de invitaciones maliciosas, uso de self-bots o user-bots, doxing, o ser cómplice comprobado de un grupo de ataque.
+​Decisiones Administrativas: La Owner del Bot tiene la última palabra en cualquier baneo global. Los administradores locales del bot no pueden revocar un GBan sin autorización directa.
+​III. Responsabilidad del Usuario y Reportes
+​Falsificación: El envío de reportes falsos mediante /reportar se considera una violación grave y resultará en la expulsión permanente del sistema.
+​Evidencias: Los reportes deben contener enlaces multimedia válidos y vigentes. RaidBlocker no se hace responsable de evidencias que caduquen o sean eliminadas por terceros.
+​IV. Abuso de Funcionalidades
+​Está prohibido intentar explotar bugs, realizar ataques de denegación de servicio (DDoS) a la infraestructura del bot o intentar extraer información de nuestra base de datos PostgreSQL.
+​V. Limitación de Responsabilidad
+​RaidBlocker es una herramienta de asistencia. Aunque trabajamos para ofrecer la máxima seguridad, no somos responsables de daños ocurridos por configuraciones incorrectas realizadas por el staff del servidor (ej. niveles de Anti-Bot mal configurados).
